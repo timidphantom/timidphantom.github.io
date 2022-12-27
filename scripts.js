@@ -1,8 +1,4 @@
-// STOP LOOKING AT MY CODE
-// OUT 
-// OUT OUT 
-// OUT 
-// GET OUT
+// DON'T look at me
  
 // Nav buttons
 $('#about-toggle').click(function(){
@@ -30,7 +26,7 @@ $('#about-toggle').click(function(){
   });
 
     tippy('#typology-label', {
-      content: 'Systems in order: Jung, MBTI, Enneagram with wing, IV, Tritype, Socionics, Big 5, Temperaments, Psychosophy, FIRO, Jungian Archetype, Amoristics',
+      content: 'Systems in order: Jung, MBTI, Enneagram with wing, IV, Tritype, Big 5, Temperaments, Psychosophy, FIRO, Jungian Archetype, Amoristics',
       placement: 'left',
       animation: 'shift-away-extreme',
       theme: 'mayoi',
